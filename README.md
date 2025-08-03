@@ -1,6 +1,6 @@
-# ClubAnn スタッフ - プライバシーポリシー & サポート
+# CLUB ANN - プライバシーポリシー & サポート
 
-このリポジトリは、ClubAnn スタッフアプリのプライバシーポリシーとサポートページをホストしています。
+このリポジトリは、CLUB ANNアプリのプライバシーポリシーとサポートページをホストしています。
 
 ## ページURL
 
@@ -36,4 +36,4 @@ App Store Connectで以下のURLを設定してください：
 
 ---
 
-© 2025 ClubAnn. All rights reserved.
+© 2025 CLUB ANN. All rights reserved.
